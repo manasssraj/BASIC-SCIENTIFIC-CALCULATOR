@@ -32,4 +32,5 @@ No external libraries needed. Uses Python’s built-in `math` module.
 3. Run the script:
 
 ```bash
+
 python scientific_calculator.py
